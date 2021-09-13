@@ -6,5 +6,9 @@ package com.zixue.controller;
  */
 
 public class HelloController {
-
+public  String info(){
+    return "hello world ";
+}
+//开发人员写了一行代码
+    //开发人员执行了一行代码
 }
